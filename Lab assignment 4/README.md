@@ -26,7 +26,7 @@ This project estimates the value of **π (pi)** using a customized
 Unlike the traditional method that uses the range `[0,1]`, this
 assignment personalizes the simulation using:
 
--   The last two digits of the student ID\
+-   The last two digits of the student ID
 -   The number of letters in the full name
 
 Random points are generated inside a square, and the proportion of
@@ -92,47 +92,46 @@ Error is calculated as:
 
 The simulation prints results in tabular format:
 
-  --------------------------------------------------------------------------
-  Range Used   Total Points  Points Inside Estimated π   Error from math.pi
-  ------------ ------------- ------------- ------------- -------------------
+____________   ____________   _________________________   ___________________
+Range Used   | Total Points | Points Inside Estimated π | Error from math.pi
+____________   ____________   _________________________   ___________________
 
   --------------------------------------------------------------------------
 
-------------------------------------------------------------------------
 
 ## 🔁 Repeated Simulation
 
 The simulation is executed **5 times** using increasing sample sizes:
 
--   4600\
--   9200\
--   13800\
--   18400\
+-   4600
+-   9200
+-   13800
+-   18400
 -   23000
 
 This demonstrates:
 
--   Convergence toward actual π\
--   Reduction in estimation error\
+-   Convergence toward actual π
+-   Reduction in estimation error
 -   Effect of sample size on accuracy
 
 ------------------------------------------------------------------------
 
 ## 🛠️ Libraries Used
 
--   NumPy\
--   random\
+-   NumPy
+-   random
 -   math
 
 ------------------------------------------------------------------------
 
 ## 📚 Learning Outcomes
 
--   Understanding Monte Carlo simulation\
--   Applying geometric probability\
--   Customizing simulations dynamically\
--   Comparing random generation methods\
--   Observing convergence behavior\
+-   Understanding Monte Carlo simulation
+-   Applying geometric probability
+-   Customizing simulations dynamically
+-   Comparing random generation methods
+-   Observing convergence behavior
 -   Performing statistical error analysis
 
 ------------------------------------------------------------------------
