@@ -11,9 +11,9 @@ Carlo](https://img.shields.io/badge/Method-Monte%20Carlo-red.svg)
 
 ## 👤 Student Information
 
--   **Name:** Md. Shahriar Hossain Srabon\
--   **ID:** 0432310005101056\
--   **Section:** B1\
+-   **Name:** Md. Shahriar Hossain Srabon
+-   **ID:** 0432310005101056
+-   **Section:** B1
 -   **Batch:** 53
 
 ------------------------------------------------------------------------
